@@ -79,4 +79,4 @@ GET /api/run-task/
 
 ## 🙌 Author
 
-Omm Prakash Mohanty — [Telegram Bot](https://t.me/Ommprakash001_bot)
+Ommprakash Mohanty — [Telegram Bot](https://t.me/Ommprakash001_bot)
