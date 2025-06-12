@@ -1,4 +1,4 @@
-# 🚀 Django Internship Assignment
+# 🚀 Django Assignment
 
 ## ✅ Features
 
